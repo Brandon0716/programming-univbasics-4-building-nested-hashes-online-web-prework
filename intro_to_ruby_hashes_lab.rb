@@ -1,9 +1,7 @@
 def base_hash 
-  countries_and_capitals_of_the_world = {
- :north_america => { 
-   "Canada" => {
-     :capital => "Ottawa",
-     :capital_climate => "Dfb"
+  flatiron_school = {
+  instructors: ["Avi", "Jeff", "Rose"], 
+  dev_team: ["Jonas", "Logan", "Amanda", "Seiji", "Kate", "Spencer"]
    }
 end
 
