@@ -3,7 +3,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  Insane_clown_posse = members: "violent j", "shaggy 2 dope"
+  {"Insane_clown_posse"} =>  members: "violent j", "shaggy 2 dope"
 end
 
 def monopoly_with_third_tier
