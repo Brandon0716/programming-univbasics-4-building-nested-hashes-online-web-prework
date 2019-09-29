@@ -7,7 +7,11 @@ def base_hash countries_and_capitals_of_the_world = {
 end
 
 def monopoly_with_second_tier
- 
+ base_hash countries_and_capitals_of_the_world = {
+ :north_america => { 
+   "Canada" => {
+     :capital => "Ottawa",
+     :capital_climate => "Dfb"
 end
 
 def monopoly_with_third_tier
