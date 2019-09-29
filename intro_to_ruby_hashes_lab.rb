@@ -1,4 +1,5 @@
-def base_hash countries_and_capitals_of_the_world = {
+def base_hash 
+  countries_and_capitals_of_the_world = {
  :north_america => { 
    "Canada" => {
      :capital => "Ottawa",
